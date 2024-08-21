@@ -7,7 +7,7 @@
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
 Currently exploring Python, Java, and Javascript. 
 Enthusiastic about Artificial Intelligence and Machine Learning.
-Ready to collaborate on Flutter and PHP (Laravel) projects.
+Ready to collaborate on Flutter and Laravel projects.
 
 <h2 align="center" class="section-heading">Connect with me</h2>
 <div align="center">
@@ -35,6 +35,7 @@ Ready to collaborate on Flutter and PHP (Laravel) projects.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
+  <img src="https://img.shields.io/badge/Laravel-02569B?style=for-the-badge&logo=laravel&logoColor=red" alt="Laravel"/>        
 </div>
 
 <div align="center">
