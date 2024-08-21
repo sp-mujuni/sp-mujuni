@@ -17,6 +17,12 @@
     </a>
 </div>
 
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<!--   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> -->
+</div>
+
 <h2 align="center" class="section-heading">Frameworks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
