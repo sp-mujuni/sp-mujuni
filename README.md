@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/NodeJS-007396?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node JS" />
+    <img src="https://img.shields.io/badge/Node-007396?style=for-the-badge&logo=node&logoColor=white" alt="Node JS" />
 
 
 </div>
