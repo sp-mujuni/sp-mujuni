@@ -10,17 +10,11 @@
 - ☕ Ready to collaborate on Flutter and PHP (Laravel) projects
 - 📫 How to reach me: smujuni99@gmail.com
 
-<h2 align="center" class="section-heading">Let's Connect</h2>
+<h2 align="center" class="section-heading">Connect with me</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/simon-peter-mujuni-50707121b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-</div>
-
-<div align="center">
-  <h2>Github Commits</h2>
-  <img src="https://raw.githubusercontent.com/sp-mujuni/sp-mujuni/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/sp-mujuni/sp-mujuni/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">Programming Languages</h2>
