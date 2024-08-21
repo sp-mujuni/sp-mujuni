@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
-Enthusiastic about Artificial Intelligence and Machine Learning.
+<p align="center">Enthusiastic about Artificial Intelligence and Machine Learning</p>
 
 <h2 align="center" class="section-heading">Connect with me</h2>
 <div align="center">
