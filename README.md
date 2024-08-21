@@ -17,14 +17,7 @@
     </a>
 </div>
 
-## Proficiency
+## GitHub Stats
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/Node-007396?style=for-the-badge&logo=node&logoColor=white" alt="Node JS" />
-
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sp-mujuni&theme=github_dark" alt="GitHub Stats"/>
 </div>
-
