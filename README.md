@@ -10,3 +10,10 @@
 - ☕ Ready to collaborate on Flutter and PHP (Laravel) projects
 - 📫 How to reach me: smujuni99@gmail.com
 
+## Let's connect
+<div align="center">
+    <a href="[https://www.linkedin.com/in/simon-peter-mujuni-50707121b/)">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
