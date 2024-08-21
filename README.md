@@ -38,7 +38,7 @@ Ready to collaborate on Flutter and PHP (Laravel) projects.
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">Github Stats</h2>
+<h2 align="center" class="section-heading">Stats</h2>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sp-mujuni&theme=github_dark" alt="SP Mujuni's GitHub Stats"/></td>   
