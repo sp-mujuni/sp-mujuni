@@ -5,10 +5,9 @@
 </div>
 
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
-- 🔭 Currently exploring Python, Java and Javascript
-- 😀 Enthusiastic about Artificial Intelligence and Machine Learning
-- ☕ Ready to collaborate on Flutter and PHP (Laravel) projects
-- 📫 How to reach me: smujuni99@gmail.com
+Currently exploring Python, Java, and Javascript. 
+Enthusiastic about Artificial Intelligence and Machine Learning.
+Ready to collaborate on Flutter and PHP (Laravel) projects.
 
 <h2 align="center" class="section-heading">Connect with me</h2>
 <div align="center">
