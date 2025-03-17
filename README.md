@@ -6,7 +6,9 @@
 
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
 <div align="center">
-  My focus is on Artificial Intelligence and Cyber Security
+  <p>
+     I am flexible, with a primary focus on Artificial Intelligence and Cyber Security
+  </p>
 </div>
 
 <h2 align="center" class="section-heading">Connect with me</h2>
