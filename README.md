@@ -7,7 +7,7 @@
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
 <div align="center">
   <p>
-     I am flexible, with a primary focus on Artificial Intelligence and Cyber Security
+     I am flexible, with a primary focus on Artificial Intelligence
   </p>
 </div>
 
@@ -23,12 +23,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
-
-<h2 align="center" class="section-heading">Cloud Technologies</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<!--   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> -->
 </div>
 
 <h2 align="center" class="section-heading">Frameworks</h2>
