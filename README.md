@@ -1,9 +1,3 @@
-<div align="center">
-    <h1>
-        01001001 00100000 01100010 01110010 01100101 01100001 01110100 01101000 01100101 00100000 01100011 01101111 01100100 01100101
-    </h1>
-</div>
-
 <h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
 <div align="center">
   <p>
