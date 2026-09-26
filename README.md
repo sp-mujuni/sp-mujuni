@@ -11,13 +11,6 @@
   </p>
 </div>
 
-<h2 align="center" class="section-heading">Connect with me</h2>
-<div align="center">
-    <a href="https://www.linkedin.com/in/simon-peter-mujuni-50707121b/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
-
 <h2 align="center" class="section-heading">Programming Languages</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
