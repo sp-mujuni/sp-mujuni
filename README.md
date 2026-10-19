@@ -1,41 +1,22 @@
-<h2 align="center" class="section-heading">I am Simon Peter Mujuni</h2>
-<div align="center">
-  <p>
-     I am flexible, with a primary focus on Artificial Intelligence
-  </p>
-</div>
+# Simon Peter Mujuni
+### AI Researcher · Software Engineer · Systems Thinker
 
-<h2 align="center" class="section-heading">Programming Languages</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
+**Building better systems. Exploring bigger possibilities.**
 
-<h2 align="center" class="section-heading">Frameworks</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
-  <img src="https://img.shields.io/badge/Laravel-02569B?style=for-the-badge&logo=laravel&logoColor=red" alt="Laravel"/>        
-</div>
+I am a software engineer and AI researcher interested in understanding complex problems and translating ideas into practical, intelligent systems.
 
-<div align="center">
-<h2 align="center" class="section-heading">Stats</h2>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sp-mujuni&theme=github_dark" alt="SP Mujuni's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-mujuni&theme=merko" alt="SP Mujuni's Contribution Streak"/></td>
-    </tr>
- </table>
+My work explores the intersection of **Artificial Intelligence, Computational Neuroscience, Affective Computing, and Human-Centered Technology** — with a particular interest in building reliable systems that create meaningful impact.
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sp-mujuni&theme=github_dark" alt="SP Mujuni's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sp-mujuni&theme=github_dark&utcOffset=10" alt="SP Mujuni's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sp-mujuni&theme=github_dark" alt="SP Mujuni's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sp-mujuni&theme=github_dark" alt="SP Mujuni's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
+### Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Computational Neuroscience & Cognitive Systems
+- Affective Computing & AI Safety
+- Intelligent Healthcare Systems
+- Adaptive Learning & Cultural Preservation
+
+### My Approach
+I value curiosity, rigorous experimentation, thoughtful engineering, and the pursuit of ideas that extend beyond the immediate problem.
+
+I am always open to meaningful collaborations in AI research, software engineering, and emerging technologies.
+
+**Connect:** [Email](mailto:smujuni99@gmail.com)
