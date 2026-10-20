@@ -1,11 +1,7 @@
 # Simon Peter Mujuni
 ### AI Researcher · Software Engineer · Systems Thinker
 
-
-### Profile Visitors
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sp-mujuni&color=0e75b6&style=flat)
-
 
 **Building better systems. Exploring bigger possibilities.**
 
