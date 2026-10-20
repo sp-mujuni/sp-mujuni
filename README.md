@@ -10,6 +10,7 @@ My work explores the intersection of **Artificial Intelligence, Computational Ne
 ### Areas of Interest
 - Artificial Intelligence & Machine Learning
 - Computational Neuroscience & Cognitive Systems
+- Algorithms
 - Affective Computing & AI Safety
 - Intelligent Healthcare Systems
 - Adaptive Learning & Cultural Preservation
